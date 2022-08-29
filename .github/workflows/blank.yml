@@ -8,4 +8,4 @@ on:
 jobs:
   
   magic:
-    uses: jareds-demo-org/.github/templates/simple-echo.yml@main
+    uses: jareds-demo-org/.github/.github/workflows/simple-echo.yml@main
