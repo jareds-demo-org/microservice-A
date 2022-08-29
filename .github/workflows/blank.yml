@@ -1,0 +1,11 @@
+# This is a basic workflow to help you get started with Actions
+
+name: MAGIC
+
+on:
+  workflow_dispatch:
+
+jobs:
+  
+  magic:
+    uses: jareds-demo-org/.github/templates/simple-echo.yml@main
